@@ -1,0 +1,18 @@
+
+Text to pic
+
+Abbrivations
+TextQuote = set of one or more words.
+TextQuoteZ = set of one or more TextQuote
+TextHeading = words which are [optionally] added on top of the ResultingPic
+LanguageMark = text which 
+Header = 
+Footer = 
+ResultingPic = final picture which is generated
+
+Constriant:
+Adjusting the size of 
+TextQuoteZ
+and 
+ResultingPic smart way 
+
